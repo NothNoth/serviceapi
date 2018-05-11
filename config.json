@@ -1,0 +1,8 @@
+{
+  "HTTPPort": 8000,
+  "AllowedServices": [
+    "foo",
+    "bar",
+    "postgresql"
+  ]
+}
